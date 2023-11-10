@@ -172,7 +172,6 @@ sc config "uevagentservice" start= disabled
 sc config "sstpsvc" start= disabled
 sc config "entappsvc" start= disabled
 sc config "UsoSvc" start= disabled
-sc config "Profsvc" start= disabled
 sc config "TimeBrokerSvc" start= disabled
 sc config "AppInfo" start= disabled
 sc config "wpnservice" start= disabled
@@ -181,3 +180,8 @@ sc config "wscsvc" start= disabled
 sc config "RtkAudioUniversalService" start= disabled
 sc config "FMAPOService" start= disabled
 sc config "webthreatdefusersvc" start= disabled
+sc config "WinDefend" start= disabled
+sc config "power" start= disabled
+sc config "IntelAudioService" start= disabled
+sc config "NPSMSvc" start= disabled
+
