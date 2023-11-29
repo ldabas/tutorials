@@ -106,7 +106,6 @@ sc config "wlansvc" start= disabled
 sc config "camsvc" start= disabled
 sc config "shpamsvc" start= disabled
 sc config "wcmsvc" start= disabled
-sc config "eventlog" start= disabled
 sc config "naturalauthentication" start= disabled
 sc config "xboxnetapisvc" start= disabled
 sc config "fdphost" start= disabled
